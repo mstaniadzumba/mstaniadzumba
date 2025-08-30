@@ -6,7 +6,7 @@
 ---
 
 **Learning @ WeThinkCode_**  
-Project-based learning in Python, Java, SQL, CI/CD, Docker, and Agile teamwork.
+Project-based learning in Python, Java, SQL,Javascript, HTML, CSS, CI/CD, Docker, and Agile teamwork.
 
 **Background:**  
 Transitioning from Geographic Information Systems (GIS) to software development.  
