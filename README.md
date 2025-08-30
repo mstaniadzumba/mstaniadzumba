@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Tania Dzumba
+#  Hi, I'm Tania Dzumba
 
 **Aspiring Software Developer**  
 [LinkedIn Profile](https://www.linkedin.com/in/tania-dzumba-a01729149/)
 
 ---
 
-🎓 **Learning @ WeThinkCode_**  
+**Learning @ WeThinkCode_**  
 Project-based learning in Python, Java, SQL, CI/CD, Docker, and Agile teamwork.
 
-🌍 **Background:**  
+**Background:**  
 Transitioning from Geographic Information Systems (GIS) to software development.  
 Driven by curiosity and a desire to build meaningful solutions.
 
 ---
 
-## 💡 Skills & Tools
+##  Skills & Tools
 
 - Python | Java  
 - SQL | Relational Databases  
@@ -24,7 +24,7 @@ Driven by curiosity and a desire to build meaningful solutions.
 
 ---
 
-## 👤 About Me
+##  About Me
 
 - Indoor enthusiast & lifelong learner  
 - Passionate about solving real problems with code  
@@ -32,7 +32,7 @@ Driven by curiosity and a desire to build meaningful solutions.
 
 ---
 
-## 🚀 Goals & Aspirations
+##  Goals & Aspirations
 
 I’m excited to combine my analytical background with tech skills to create impactful solutions.  
 Currently seeking opportunities to learn, collaborate, and grow as a developer.
