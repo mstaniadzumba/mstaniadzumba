@@ -16,7 +16,7 @@ Driven by curiosity and a desire to build meaningful solutions.
 
 ##  Skills & Tools
 
-- Python | Java  
+- Python | Java | Javascript | HTML5 | CSS3
 - SQL | Relational Databases  
 - CI/CD Pipelines | Docker  
 - Agile Software Development  
