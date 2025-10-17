@@ -5,12 +5,14 @@
 
 ---
 
-**Learning @ WeThinkCode_**  
-Project-based learning in Python, Java, SQL,Javascript, HTML and CSS.
-
 **Background:**  
 Transitioning from Geographic Information Systems (GIS) to software development.  
 Driven by curiosity and a desire to build meaningful solutions.
+
+
+**Learning @ WeThinkCode_**  
+Project-based learning in Python, Java, SQL,Javascript, HTML and CSS.
+
 
 ---
 
