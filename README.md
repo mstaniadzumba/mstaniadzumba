@@ -28,7 +28,6 @@ Project-based learning in Python, Java, SQL,Javascript, HTML and CSS.
 
 ##  About Me
 
-- Indoor enthusiast & lifelong learner  
 - Passionate about solving real problems with code  
 - Enjoy focused environments, music, and exploring new technologies
 
